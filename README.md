@@ -64,5 +64,6 @@ Add your final 1–2 page workflow report PDF in this repo.
 
 ## 📧 Contact
 Sameer Pathania  
-Email: your-email-here
+Email: sameerpathania2@gmail.com
+
 
