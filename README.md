@@ -1,0 +1,1 @@
+# partnership-inquiry-automation
