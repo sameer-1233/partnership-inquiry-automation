@@ -42,7 +42,7 @@ _Add screenshots of your Zapier steps here._
 
 ## 🎥 Demo Video
 Paste your video link here  
-(YouTube / Loom / Google Drive)
+(YouTube: https://youtu.be/DDQJ0lEni6A)
 
 ---
 
@@ -65,3 +65,4 @@ Add your final 1–2 page workflow report PDF in this repo.
 ## 📧 Contact
 Sameer Pathania  
 Email: your-email-here
+
